@@ -1,1 +1,4 @@
 openpyxl==3.1.2 
+Pandas
+Streamlit==1.32.0
+
