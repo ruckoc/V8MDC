@@ -9,7 +9,7 @@ MarkupSafe==2.1.5
 mdurl==0.1.2
 numpy==1.26.4
 packaging==24.0
-pandas==2.2.2
+pandas==3.1.0
 pillow==10.3.0
 protobuf==4.25.3
 pyarrow==16.0.0
@@ -32,5 +32,5 @@ typing_extensions==4.11.0
 tzdata==2024.1
 urllib3==2.2.1
 watchdog==4.0.0
-openpyxl==3.0.9
+openpyxl==3.1.0
 
